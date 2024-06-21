@@ -1,0 +1,12 @@
+[*data definitions]
+wavelength	: \lambda [nm]
+LockIn amplitude	: R(\lambda) [V]
+current density	: j(\lambda) [mA/cm**2]
+phase	: \phi(\lambda) [deg]
+LockIn sensitivity	: Sen(\lambda) [V]
+spectral response	: SR(\lambda) [A/W]
+external quantum efficiency	: EQE (\lambda)
+standard deviation EQE	: Dev_EQE (\lambda)
+standard deviation LockIn amplitude	: Dev_R (\lambda)
+monitor level	:R (\lambda)
+monitor	:R (\lambda)
